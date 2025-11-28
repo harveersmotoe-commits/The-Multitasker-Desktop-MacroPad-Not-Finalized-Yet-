@@ -1,0 +1,19 @@
+{
+  "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
+  "notes": "",
+  "version": 1,
+  "keyboard": "THE MULITITASKER",
+  "keymap": "handwired_6macro_layout_2025-11-28",
+  "layout": "SCREENSHOT_CRTLCV_COMBO",
+  "layers": [
+    [
+      "KC_C",
+      "KC_V",
+      "KC_S",
+      "KC_LCTL",
+      "KC_LGUI",
+      "KC_LSFT"
+    ]
+  ],
+  "author": ""
+}
