@@ -22,3 +22,5 @@ Macro Pad for Multitasking opportunities. Inspired by Blueprint HackPad but with
 # BOM:
 
 <img width="302" height="517" alt="image" src="https://github.com/user-attachments/assets/c13305f3-7de3-4ec0-bb34-864aa14537cb" />
+
+HackPad BOM - Sheet1.csv
