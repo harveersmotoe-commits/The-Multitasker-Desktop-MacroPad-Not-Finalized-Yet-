@@ -3,6 +3,7 @@ Macro Pad for Multitasking opportunities. Inspired by Blueprint HackPad but with
 
 I thought of this idea due to the popular game on Roblox called Bee Swarm Simulator. And that I also love to take screenshots but everything I have to press 3 billion keys for it.
 
+I have added STL files to this repo so that someone else can also follow along. PCB files are also located in the PCB folder. BOM is attached below. More details on how to build coming soon!
 # Assembly (Prediction)
 
 <img width="1366" height="696" alt="image" src="https://github.com/user-attachments/assets/6b73a781-e420-4493-9af5-1c375d7a6ce7" />
