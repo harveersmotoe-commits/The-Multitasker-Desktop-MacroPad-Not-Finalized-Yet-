@@ -20,15 +20,5 @@ Macro Pad for Multitasking opportunities. Inspired by Blueprint HackPad but with
 
 *********************************************************************************************************
 # BOM:
-,,,
-,,,
-,,Materials,Qty
-,,Seeed XIAO RP2040,1
-,,PCB,1
-,,MX-Style switches,6
-,,Blank DSA keycaps,6
-,,SK6812 MINI-E LEDs,3
-,,M3x16mm screws,4
-,,M3x5mx4mm heatset inserts,4
-,,3D printed top,1
-,,3D printed bottom,1
+
+<img width="302" height="517" alt="image" src="https://github.com/user-attachments/assets/c13305f3-7de3-4ec0-bb34-864aa14537cb" />
